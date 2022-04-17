@@ -1,0 +1,19 @@
+#game-board{
+    background-image: url('https://preview.redd.it/j604gip3p1z51.png?width=496&format=png&auto=webp&s=68c4333d77fcd24fc4eb58f9a23ecc80bd3539d0');
+    width: 750px;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.egg {
+    width: 10px;
+    position: absolute;
+    opacity: .13
+}
+
+#score-container {
+    color: #55f70a;
+}
